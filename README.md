@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elizabeth1028 , a current undergraduate student at Emory University pursuing a BS in Computer Science
+- 👋 Hi, I’m @elizabeth1028 , a current undergraduate student at Emory University pursuing a BS in Computer Science with a minor in History
 - 👀 I’m interested in Software Engineering and Technical Program Management
 - 🌱 I’m currently learning Data Structures and Algorithms in Java
 - 💞️ I’m looking to collaborate on any BackEnd or Full Stack Development projects
