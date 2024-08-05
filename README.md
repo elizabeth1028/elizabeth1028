@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science with a minor in History , graduating December 2026
 - 🌟 I'm a first-generation low-income student from Norcross, GA
-- 👀 I’m interested in Software Engineering and Technical Program Management
+- 👀 I’m interested in Software Development Engineering and Technical Program Management
 - 🌱 I’m currently learning Data Structures and Algorithms in Java
 - 💞️ I’m looking to collaborate on any Backend or Full Stack Development projects
 - 📫 How to reach me : personal - elizabeth220431 [at] gmail [dot] com , school - elizabeth [dot] garcia [at] emory [dot] edu
