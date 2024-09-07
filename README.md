@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science with a minor in History , graduating May 2027
+- 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science with a minor in History , graduating December 2026
 - 🌟 I'm a first-generation low-income student from Norcross, GA
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Computer Architecture/Machine Level Programming and Software Engineering!
