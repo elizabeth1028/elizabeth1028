@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science, graduating May 2027
+- 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science, graduating December 2026
 - 🌟 I'm a first-generation, low-income student from Norcross, GA
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Computer Architecture/Machine Level Programming and Software Engineering!
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence!
 - 📫 How to reach me : personal - elizabeth220431 [at] gmail [dot] com , school - elizabeth [dot] garcia [at] emory [dot] edu
 - 😄 Pronouns: she/her/ella
 - ⚡ Fun fact: I have 2 dogs and 2 cats! A mini schnauzer, bichon poo, balinese, and nebelung!
