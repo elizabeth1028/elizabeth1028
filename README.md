@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science
 - 🌟 I'm a first-generation, low-income student from Norcross, GA
-- 👀 I’m interested in Data Science and Leadership
-- 🌱 I’m currently learning Machine Learning!
+- 👀 I’m interested in the intersection of HCI and AI
+- 🌱 I’m currently learning Human-Computer Interaction!
 - 📫 How to reach me : personal - elizabeth220431 [at] gmail [dot] com , school - elizabeth [dot] garcia [at] emory [dot] edu
 - 😄 Pronouns: she/her/ella
 - ⚡ Fun fact: I have 2 dogs and 2 cats! A mini schnauzer, bichon poo, balinese, and nebelung!
