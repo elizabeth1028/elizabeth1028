@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BA in Computer Science, graduating in 2026
+- 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BS in Computer Science
 - 🌟 I'm a first-generation, low-income student from Norcross, GA
 - 👀 I’m interested in Data Science and Leadership
 - 🌱 I’m currently learning Machine Learning!
