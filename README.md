@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elizabeth Garcia , a current undergraduate student at Emory University pursuing a BA in Computer Science
 - 🌟 I'm a first-generation, low-income student from Norcross, GA
-- 👀 I’m interested in the intersection of HCI and AI
+- 👀 I’m interested in the developing solutions for clients through technology!
 - 🌱 I’m currently learning Data Mining!
 - 📫 How to reach me : personal - elizabeth220431 [at] gmail [dot] com , school - elizabeth [dot] garcia [at] emory [dot] edu
 - 😄 Pronouns: she/her/ella
